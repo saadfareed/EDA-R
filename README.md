@@ -23,20 +23,3 @@ pages of the report should be watermarked with your registration number.
 9. Before submitting, make sure that the PDF file can be opened. You can save graphs as
 PNG or JPEG files and then insert in the Word Document.
 10. Both the datasets i.e., Dataset_1 and Dataset_2 are described below.
-
-
-Dataset_2
-Data of ATM transaction of XYZ bank
-Total Columns = 10
-Total Rows = 11,589
-Column Name 
-ATM Name         
-Transaction Date
-No Of Withdrawals
-No Of XYZ Card Withdrawals
-No Of Other Card Withdrawals
-Total amount Withdrawn Amount
-withdrawn XYZ Card Amount
-withdrawn Other Card
-Weekday
-Working Day
